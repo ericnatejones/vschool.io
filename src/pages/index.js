@@ -89,7 +89,15 @@ export default function IndexPage({ data }) {
                 <meta property="twitter:description" content="At V School you'll find a tech family that will serve you for life. A network of smart, kind, movers, shakers, and change-makers that will help you plug into ..." />
                 <meta property="twitter:image" content={heroMetaImg} />
             </Helmet>
-            <HeroHeader
+    <h1>
+Hey there!
+                        </h1>
+    <p>
+I'm Eric Jones, one of the original instructors at V School. You can find me on Instagram, LinkedIn, GitHub, etc., under the username ericnatejones.
+                        </p>
+<p>
+I offer month-long courses designed for dedicated, hardworking individuals who can commit to a daily schedule. The course fee is $2,000, but if we gather 10 students, I'll reduce the fee to $1,000 per student!  
+                        </p><HeroHeader
                 title={title}
                 sub={sub}
                 invite={invite}
